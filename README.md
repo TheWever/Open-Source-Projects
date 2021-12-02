@@ -5,7 +5,7 @@ If you have any questions contact me on discord: Wever#3255
 My Replit: https://replit.com/@TheWever
 
 
-List of Projects:
+## List of Projects:
 
 Fully randomized dice: https://replit.com/@TheWever/Random-Dice
 
