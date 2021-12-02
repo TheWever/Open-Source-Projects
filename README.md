@@ -11,3 +11,5 @@ My Replit: https://replit.com/@TheWever
 Fully randomized dice: https://replit.com/@TheWever/Random-Dice
 
 Amazon Repeating Letters Problem: https://replit.com/@TheWever/Repeating-Letters
+
+Sort Function: https://replit.com/@TheWever/Sort-function
